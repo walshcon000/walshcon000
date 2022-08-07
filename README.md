@@ -17,7 +17,7 @@ Active Directory Home Lab - Bulk User Creation
 [<img align="left" alt="ConnorWalsh | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 [twitter]: https://twitter.com/walshcon000
-[youtube]: https://www.youtube.com/c/joshmadakor
+[youtube]: https://www.youtube.com/channel/UCXdBE-axXatdmcPlk_5DKVQ)
 [instagram]: https://www.instagram.com/joshmadakor/
 [linkedin]: https://linkedin.com/in/joshmadakor
 
