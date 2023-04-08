@@ -1,7 +1,6 @@
 <h1>Hi, I'm Connor!
 
-<h1 align="center">Hi, I'm Connor Walsh</h1>
-<h3 align="center">A passionate engineer from Indianpolis, Indiana!</h3>
+<h3 align="left">A passionate engineer from Indianpolis, Indiana!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=walshcon000&label=Profile%20views&color=0e75b6&style=flat" alt="walshcon000" /> </p>
 
@@ -15,7 +14,12 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://twitter.com/walshcon000" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="walshcon000" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/connor-walsh-254839186" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="connor-walsh-254839186" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/21598392" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="21598392" height="30" width="40" /></a>
+<a href="https://fb.com/connor.walsh.5070276" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="connor.walsh.5070276" height="30" width="40" /></a>
+<a href="https://instagram.com/connor__walsh__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="connor__walsh__" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/connorwalsh4248" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="connorwalsh4248" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -26,14 +30,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=walshcon000&show_icons=true&locale=en" alt="walshcon000" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=walshcon000&" alt="walshcon000" /></p>
-
-[<img align="left" alt="ConnorWalsh | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="ConnorWalsh | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="ConnorWalsh | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="ConnorWalsh | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
-[twitter]: https://twitter.com/walshcon000
-[youtube]: https://www.youtube.com/channel/UCXdBE-axXatdmcPlk_5DKVQ
-[instagram]: https://www.instagram.com/connor__walsh__/
-[linkedin]: https://www.linkedin.com/in/connor-walsh-254839186/
 
