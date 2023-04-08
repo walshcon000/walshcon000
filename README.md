@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on [DiscordBot](https://github.com/walshcon000/DiscordBot)
 
-- 🌱 I’m currently learning **to work in Figma and javascript.**
+- 🌱 I’m currently learning **to work in Figma and JavaScript.**
 
 - 👨‍💻 All of my projects are available at [https://www.notion.so/Hi-I-m-Connor-abc60b0ecd6749b98a9bb13288c86f46](https://www.notion.so/Hi-I-m-Connor-abc60b0ecd6749b98a9bb13288c86f46)
 
